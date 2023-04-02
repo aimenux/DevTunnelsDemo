@@ -13,4 +13,4 @@ Experimenting dev tunnels
 > ![DevTunnelsDemo](Screenshots/DevTunnelsDemo.png)
 >
 
-**`Tools`** : vs22, net 6.0, web api, dev-tunnels, xunit, integration-testing
+**`Tools`** : vs22, net 6.0, web api, dev-tunnels, xunit, integration-tests
